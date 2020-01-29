@@ -29,6 +29,7 @@ jenkins_plugins:
   - "login-theme"
   - "simple-theme-plugin"
   - "timestamper"
+  - "ws-cleanup"
 
 jenkins_plugins_state: present
 jenkins_plugin_updates_expiration: 86400
