@@ -30,6 +30,8 @@ jenkins_plugins:
   - "simple-theme-plugin"
   - "timestamper"
   - "ws-cleanup"
+  - "docker-plugin"
+  - "kubernetes"
   - "kubernetes-cd"
   - "sonar"
   - "artifactory"
