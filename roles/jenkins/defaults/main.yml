@@ -33,9 +33,11 @@ jenkins_plugins:
   - "docker-plugin"
   - "kubernetes"
   - "kubernetes-cd"
+  - "azure-container-agents"
+  - "azure-container-registry-tasks"
   - "sonar"
-  - "artifactory"
   - "sonar-quality-gates"
+  - "artifactory"
 
 jenkins_plugins_state: present
 jenkins_plugin_updates_expiration: 86400
