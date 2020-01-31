@@ -4,7 +4,7 @@
 #   - openjdk-11-jdk
 __java_packages:
 #  - openjdk-11-jdk
-  - openjdk-10-jdk
+  - openjdk-8-jdk
 
 ansible_distribution: Ubuntu
 ansible_distribution_version: 18.04
