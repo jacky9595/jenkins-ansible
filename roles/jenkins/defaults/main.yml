@@ -38,6 +38,7 @@ jenkins_plugins:
   - "sonar"
   - "sonar-quality-gates"
   - "artifactory"
+  - "workflow-aggregator"
 
 jenkins_plugins_state: present
 jenkins_plugin_updates_expiration: 86400
