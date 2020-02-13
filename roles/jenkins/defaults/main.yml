@@ -19,7 +19,6 @@ jenkins_java_options: "-Djenkins.install.runSetupWizard=false -Dorg.apache.commo
 
 #jenkins_plugins: []
 jenkins_plugins:
-  - "git"
   - "gitlab-plugin"
   - "greenballs"
   - "role-strategy"
