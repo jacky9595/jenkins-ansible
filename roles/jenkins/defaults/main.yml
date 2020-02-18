@@ -33,6 +33,7 @@ jenkins_plugins:
   - "docker-plugin"
   - "kubernetes"
   - "kubernetes-cd"
+  - "azure-cli"
   - "azure-container-agents"
   - "azure-container-registry-tasks"
   - "sonar"
